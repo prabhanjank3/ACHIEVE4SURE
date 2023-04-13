@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-land-358413",
+  "private_key_id": "57fc6bae998e138944a302db5247299bd216e9e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmVp5x9IX24zV5\nw2KrTJYjGy+nqYnZb3SFJp5v+Xsei72u6o7DKkjp9fOlZNcidFKRhrr3wzl1cZAb\njgA2C6NiDufFn2YXkLSBpSxYky2jk/DbM74lpmtdc2f/WrkX0A4h22GIdecQZoJD\n6x9zmMR2yI5WInU0XUa7+C0Tc5h0tXwSPDfKVFcYqni70JYXF1kkS1taSSHLhQk2\noRLtgqUJXXD9TV4N97tqMAssY6Expd/E+35FNgXtzGCGcdHeCCRC+2ul0RmAO6xm\n2G9dJiZWwYwqiZk/LxTSiLum2lztrCBCBeKyvBdrw3+eEVLhvKhh9M9anIqaRDcp\nzDhuhdLZAgMBAAECggEAOCXA8iJiHgZwBJwJcF03yL3ihivaVkUjBdcVYCLMhnER\nJDwU2JgraJ4XEltJq12siWb7Mar6eERPKp3yQEwJaI4zeifmJEo6RBDnOTblDvRf\nNv7uTnMwhqjwD+gl1n3qZ09QSunRh12y1w5E3ZZRqu7j7PtQqM5blBOf05MPgUU9\njBPfCVEqXtYAxHFtkGrGYI7EJwRICSoWVkcFFQBT8wVsVAGTB+PrDbp1+mPc8XTW\nHDuFdXLGIbaiQJKQWSc5t4ps6X39ZmBfejAMKjLW3YgWRNrTuFc1/67lOD75Q1P5\n6mteF6fZydWts0R9HVl3egnT25yTi++GZPxv7f8P6QKBgQDkCXIpqBYjzSrrNemS\nU7S/4VFBMrbNZem2s2eAlbdckpWIoV3Goi+bkscjtg5Ujyk2KoC1m0Tsb22yMVOF\novFZpbTUyQk5lowEz0Xc52KLxGjh43rNicWMrfO7Dyeal1gs2c/9ofeQWuqxuexk\nh9yq8m0KoLAOLj9X22TOrVSkWwKBgQC6vFO0gUV+lWTZSue1fZ/ClQK0Ivvm9Bry\nOk3sSCHVARNpgumEAlMwI6E9sDgZTvA0S5ubLIULF5mVdiLM3t0VG3UO2AaV6n+z\ngURRHt5SwBd+LTdKsDeVEfyb+IJM7BqhhIY/BA/kYzlSW9JY9Lovhp0EJfrYZEyv\ne+tZP2j72wKBgQCiiPkOJ/hf3ETTEcJBwdf7TCYWSodxL0q+JnGHfS8MlI5wrFOi\n2McGJEA8e+8K5l+BdBn5V4pw25tcfzwA7HsKYsnZQNGKcnuqkfJB2cqrxHrdRr6o\n8aIU+4fVtJ+N2IHIthdBuMgz5BmUQ+jyXsQyNEj0YkQaV2xeusnHZlQGMQKBgH8p\ngkL4iS+TYpLKfJHOE345ZRbwf+QdtT/gznGqCUf5LJP8bzLTNn0gtkvA9eLeK5sh\nJbz9CzirgI4UXcxvs9QM16EdIRb0ErRVwgUP5UwqvZTSC8YTzDX6grBgAbOKUPRO\nv/Cnvn7DxyQ7nTmwph15KPHLP1AetU4HMBSdpstjAoGBAIJuTEMkLEYdAiMMueGx\neKTw1jYf3VPiJeKrPfeXaPsohy5iY4GCk12VwPuNUEyuD5shhoZt2P4FypLZMHBB\n/vRNNhyxf3kRyB4uc/T4dT5a0c2hl7riWKn3soeePpLTmKWQ6xhr3jYahomBTTbe\nho7jWsxs0FKVokpjKbsmVKLM\n-----END PRIVATE KEY-----\n",
+  "client_email": "achieve4sure-file-storage@robotic-land-358413.iam.gserviceaccount.com",
+  "client_id": "104583910678060092982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/achieve4sure-file-storage%40robotic-land-358413.iam.gserviceaccount.com"
+}

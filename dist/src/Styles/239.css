@@ -1,0 +1,60 @@
+.date-pill
+{
+    border-radius: 500px !important;
+    border: 1px solid #604BFF;
+    margin: 0px auto 10px auto;
+    margin-top: 5px;
+    padding: 0px auto;
+    text-align: center;
+    width: 70% !important;
+}
+.date-input-pill
+{
+    display: inline;
+    width: 50% !important;
+}
+.date-input-label-pill
+{
+    font-weight: bold;
+    font-size: medium;
+    display: inline;
+    margin-right: 10px;
+}
+.svg
+{
+    display: inline;
+}
+.left-arrow-date-pill
+{
+    float: left;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top:10px;
+
+}
+.right-arrow-date-pill
+{
+    float: right;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top:10px;
+}
+
+@media (max-width: 1000px) {
+.date-pill
+{
+    width: 100% !important;
+}
+.date-input-pill
+{
+    margin-bottom: 3%;
+}
+.left-arrow-date-pill
+{
+    margin-top: 10%;
+}
+.right-arrow-date-pill
+{
+    /* margin-bottom: 10%; */
+}
+}

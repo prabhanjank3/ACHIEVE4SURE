@@ -1,0 +1,65 @@
+@import "../../fontStyles.css";
+.input-common {
+    /* background-color: white; */
+    margin: 0px auto 15px auto;
+}
+
+.item-heading-bar {
+    background-color: #3272d9;
+}
+
+.item-heading-bar-id {
+    display: inline;
+}
+
+.item-heading-bar-title {
+    display: inline;
+}
+
+textarea {
+    width: 100%;
+}
+
+.pts-input {
+    width: 80%;
+}
+
+.small-info-btn-div {
+    margin-top: 0px;
+}
+
+#save-btn,
+#cancel-btn {
+    width: 40%;
+}
+
+.title-input {
+    width: 100%;
+    border: 1px dotted gray;
+}
+
+.attachment-item-row {
+    background-color: white;
+    border: 0.5px dotted #3272d9;
+    width: 85%;
+}
+
+.attachment-container {
+    margin-top: 10px;
+}
+
+#report-comment {
+    width: 85%;
+}
+
+#report-btn {
+    width: 85%;
+}
+
+.form-label {
+    font-family: "CircularStdMedium";
+}
+
+.links-container {
+    margin-top: 10px;
+}

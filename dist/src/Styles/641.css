@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'CircularStdBlack';
+  src: url(/00cb4881193e9281e57a.woff2) format('woff2'),
+    url(/4a2c5eeb3ab64924ab01.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CircularStdBold';
+  src: url(/0b58ca4241eda42cff1f.woff2) format('woff2'),
+    url(/4bae1919c290b4010366.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CircularStdMedium';
+  src: url(/06dce1b52a24a6dfe3a2.woff2) format('woff2'),
+    url(/e39d4081b339f42a2a55.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CircularStdBook';
+  src: url(/da91211bb1fd4f1d09d8.woff2) format('woff2'),
+    url(/b9b1abe339ba6639afff.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'jira';
+  src: url(/ba8c1c53b0ec8bc7a044.woff) format('truetype'),
+    url(/c920b0e90777bed859c0.ttf) format('woff'), url(/3f1577f37aaeb7ece20b.svg#jira) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.input-common {
+    /* background-color: white; */
+    margin: 0px auto 15px auto;
+}
+
+.item-heading-bar {
+    background-color: #3272d9;
+}
+
+.item-heading-bar-id {
+    display: inline;
+}
+
+.item-heading-bar-title {
+    display: inline;
+}
+
+textarea {
+    width: 100%;
+}
+
+.pts-input {
+    width: 80%;
+}
+
+.small-info-btn-div {
+    margin-top: 0px;
+}
+
+#save-btn,
+#cancel-btn {
+    width: 40%;
+}
+
+.title-input {
+    width: 100%;
+    border: 1px dotted gray;
+}
+
+.attachment-item-row {
+    background-color: white;
+    border: 0.5px dotted #3272d9;
+    width: 85%;
+}
+
+.attachment-container {
+    margin-top: 10px;
+}
+
+#report-comment {
+    width: 85%;
+}
+
+#report-btn {
+    width: 85%;
+}
+
+.form-label {
+    font-family: "CircularStdMedium";
+}
+
+.links-container {
+    margin-top: 10px;
+}
