@@ -2,17 +2,12 @@
 
 Achieve4sure is a feature rich goal management and productivity application. From helping to set mindful goals to improving productivity, Achieve4sure is Perfect!
 
-<br />
-
 ## Features
 
 - 👉 Easily set, manage, and track long-term and short term goals
 - 👉 Access real-time dashboards and metrics at any time.
 - 👉 Weekly check-ins to track goal progress
 
-<br />
-
-<br >
 
 ## How to use it
 
