@@ -39,3 +39,26 @@ $ npm run startwithserver
 
 <br />
 
+## Screenshots
+
+### Login Page
+
+![image](https://user-images.githubusercontent.com/35887757/231763174-06a0a634-3ade-402a-8165-4390db2db8ac.png)
+
+### New Goal
+
+![image](https://user-images.githubusercontent.com/35887757/231764464-f9ab541c-4b7f-4ea4-b9d8-b7386553d37f.png)
+
+### New Subtask
+
+![image](https://user-images.githubusercontent.com/35887757/231764806-ba851e22-df2e-4e8c-b312-8f24dfc69eac.png)
+
+### Dashboard
+
+![image](https://user-images.githubusercontent.com/35887757/231765206-509caad8-ed94-475e-b3f1-19a00e9f6ad2.png)
+
+### Reports
+
+![image](https://user-images.githubusercontent.com/35887757/231765405-2dc8b405-5906-458f-b34b-3956b3fe541f.png)
+
+
